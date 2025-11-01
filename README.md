@@ -1,6 +1,3 @@
-
-
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -16,7 +13,7 @@
 <nav class="text-bg-dark p-3">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="pastel_de_fresa_23942_orig.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
+      <img src="pastel fresa.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
       El Paraíso del Postre
     </a>
   </div>
@@ -28,7 +25,7 @@
     <div class="container text-center">
   <div class="row row-cols-2">
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="Homemade-Brownie-Sundae-with-Nuts.jpg" class="card-img-top" alt="...">
+  <img src="Brownie.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Brownie con Helado</h5>
     <p class="card-text">
@@ -39,7 +36,7 @@ Suave bizcocho de chocolate con trozos de nuez, acompañado de una bola de helad
   </div>
 </div></div>
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="torta_tres_leches_8910_orig.jpg" class="card-img-top" alt="...">
+  <img src="Tres leches.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Pastel Tres Leches
         </h5>
@@ -50,7 +47,7 @@ Suave bizcocho de chocolate con trozos de nuez, acompañado de una bola de helad
   </div>
 </div></div>
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="db5878cb61cad9e4892b791fe5869063.jpg" class="card-img-top" alt="...">
+  <img src="Mousse.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Mousse de Frutos Rojos
 
@@ -62,7 +59,7 @@ Suave bizcocho de chocolate con trozos de nuez, acompañado de una bola de helad
   </div>
 </div></div>
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="lemon-cheesecake-5.jpg" class="card-img-top" alt="...">
+  <img src="Tarta.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Cheesecake de Limón 
 
